@@ -1,0 +1,25 @@
+input the current city the user is in
+
+allow app to use location 
+
+input information if allowed
+
+search for closest events
+
+if there are no events in the area 
+    show error message
+
+if there are events in the area
+    show the information
+
+show events
+
+while user applies to event 
+    show availability scheduel 
+
+if not available 
+    then show event full
+
+if available 
+    then show open spots
+
