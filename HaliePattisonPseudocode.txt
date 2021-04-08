@@ -1,0 +1,17 @@
+﻿Get location of city
+      Allow app to use location
+If no information 
+     Return to home screen
+If allowed 
+     Input information 
+Search for closest events
+         If no events 
+        Show error message
+If there is events 
+        Show events 
+while user applies to event 
+       Show availablity schedule 
+if not available 
+      show event full
+if available 
+     the show open spots
