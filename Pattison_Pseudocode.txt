@@ -1,0 +1,20 @@
+Get location of city
+      Allow app to use location
+If no information 
+     Show error message for requiring location
+     Return to home screen
+If allowed 
+     Input information 
+     While inputing information ask to connect to social media 
+If not Search for closest events
+         If no events 
+        Show error message
+If there is events 
+        Show events and friend events
+while user applies to event 
+       Show availablity schedule 
+if not available 
+      show event full
+if available 
+     then show open spots
+If no open spots ask to join as walk in
