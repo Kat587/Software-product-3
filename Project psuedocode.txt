@@ -2,20 +2,23 @@ input the current city the user is in
 
 allow app to use location 
 
+if not allowed to use location
+    show a message of why the location is needed
+
 input information if allowed
 
-search for closest events
+search for closest events hosted by friends 
 
-if there are no events in the area 
-    show error message
+if there are no events in the area hosted by friends
+    show error message of none of your friends are hosting events
 
-if there are events in the area
+if there are events in the area hosted by friends
     show the information
 
 show events
 
 while user applies to event 
-    show availability scheduel 
+    show availability schedule
 
 if not available 
     then show event full
