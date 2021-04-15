@@ -1,0 +1,39 @@
+input the current city the user is in
+
+allow app to use location 
+
+if not allowed to use location
+    show a message of why the location is needed
+
+return to home screen
+
+input information if allowed
+
+while inputing information ask to connect to friends on social media
+
+if not 
+    search for closest events
+
+search for closest events hosted by friends 
+
+if there are no events in the area hosted by friends
+    show error message of none of your friends are hosting events
+
+if there are events in the area hosted by friends
+    show the information
+
+show events and friend events
+
+while user applies to event 
+    show availability schedule
+
+if not available 
+    then show event full
+
+if available 
+    then show open spots
+
+if no open spots
+    ask to join as walk in
+
+
